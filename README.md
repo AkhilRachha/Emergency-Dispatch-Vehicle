@@ -13,7 +13,7 @@ To find and allocate an available emergency vehicle by:
 
 - **Dijkstra’s Algorithm** is implemented to compute the shortest path considering both:
   - Distance between nodes.
-  - Dynamic traffic density levels (converted to weights).
+  - Dynamic traffic density levels (converted to weights). 
 
 ## 🏙️ Project Overview
 
