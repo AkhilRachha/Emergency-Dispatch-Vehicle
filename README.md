@@ -2,6 +2,11 @@
 
 A mini project developed as part of the **Design and Analysis of Algorithms (DAA)** course. The project aims to efficiently dispatch emergency vehicles using **Dijkstra’s Algorithm** to determine the shortest and least congested path between a user’s location and the nearest or selected hospital.
 
+## 🚀 Live Demo
+
+You can run the project directly in your browser without installing anything:
+[![Run on OnlineGDB](https://img.shields.io/badge/Run--on-OnlineGDB-blue?logo=c&logoColor=white)](https://onlinegdb.com/693VpZIBX)
+
 ## 📌 Objective
 
 To find and allocate an available emergency vehicle by:
